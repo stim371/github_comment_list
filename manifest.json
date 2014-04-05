@@ -3,7 +3,7 @@
 
   "name": "Github Comment List",
   "description": "This extension will provide direct access to each comment group in a pull request so you can jump to the correct section without searching a long page each time.",
-  "version": "1.0",
+  "version": "0.0.1",
 
   "browser_action": {
     "default_icon": "icon.png",
